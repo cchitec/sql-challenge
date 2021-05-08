@@ -1,2 +1,2 @@
 # sql-challenge
-Sequel on PgAdmin4
+Sequel 
